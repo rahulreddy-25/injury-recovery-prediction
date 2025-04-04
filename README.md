@@ -29,6 +29,3 @@ app.py: Main Streamlit application code.
 requirements.txt: List of required Python packages.
 Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any changes or suggestions.
-
-License
-This project is licensed under the MIT License.
